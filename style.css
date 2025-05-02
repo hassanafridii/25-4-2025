@@ -1,4 +1,4 @@
-.bio {
+/* .bio {
     font-family: Arial, sans-serif;
     font-size: 16px;
     color: white;
@@ -13,7 +13,7 @@
 
 
 button {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50; Green
     font-style: italic;
     font-weight: bold;  
     border: none;
@@ -36,4 +36,42 @@ button a{
 
 button:hover {
     background-color:rgb(82, 92, 102);
+} */
+
+
+.black {
+
+background-color: black;
+}
+
+
+.one{
+    overflow: hidden;
+   
+}
+
+.two{
+    overflow: scroll;
+    height: 60px;
+    
+}
+
+.example {
+ text-align: center;
+ margin: 10px auto 10px auto;
+ width:300px;
+ border: 5px solid #ccc;   
+ padding: 10px;
+}
+
+ul {
+    list-style: outside upper-alpha;
+    width: 100%;
+ 
+}
+
+li {
+    margin: 10px 0px 0px 0px;
+    
+  
 }
